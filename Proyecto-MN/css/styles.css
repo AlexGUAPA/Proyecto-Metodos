@@ -1,0 +1,13 @@
+body{
+  background: green;
+}
+
+table, th, tr{
+  width: auto;
+  border: 1px solid black;
+  /*border-collapse: collapse;*/
+}
+
+th, tr{
+  padding: 25px;
+}
